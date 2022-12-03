@@ -1,4 +1,4 @@
-# advent-of-code-2022
+# advent-of-code-2022 ![Test Status](https://github.com/PaulWild/advent-of-code-2022/actions/workflows/dotnet.yml/badge.svg?branch=main)
 
 Solutions to the Advent of code 2022 in C#
 
