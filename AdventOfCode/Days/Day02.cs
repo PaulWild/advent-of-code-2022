@@ -1,6 +1,3 @@
-using System.Runtime.InteropServices;
-using System.Text.RegularExpressions;
-
 namespace AdventOfCode.Days;
 
 public class Day02 : ISolution
