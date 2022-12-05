@@ -84,6 +84,6 @@ public class Day04Tests
     {
         var actual = _sut.PartTwo(_testData);
 
-        actual.Should().Be("SomeString");
+        actual.Should().Be("4");
     }
 }
