@@ -1,7 +1,3 @@
-using System.Numerics;
-using System.Runtime.Intrinsics.X86;
-using AdventOfCode.Common;
-
 namespace AdventOfCode.Days;
 
 public class Day08 : ISolution
@@ -107,8 +103,7 @@ public class Day08 : ISolution
         for (var treeY = 0; treeY <= maxY; treeY++)
         {
             var maxHeight = grid[(treeX, treeY)];
-            var scenicValue = 1;
-            
+
             var xPos = 0;
             for (var x = treeX+1; x <= maxX; x++)
             {

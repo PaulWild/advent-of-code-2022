@@ -29,6 +29,18 @@ public static class Grid
         if (grid.ContainsKey((x + 1, y))) yield return (x + 1, y);
     }
 
+    public static IEnumerable<(int x, int y)> Neighbours2(int x, int y)
+    {
+        for (var yNeighbour = y - 1; yNeighbour <= y + 1; yNeighbour++)
+        for (var xNeighbour = x - 1; xNeighbour <= x + 1; xNeighbour++)
+        {
+            if (!(xNeighbour == x && yNeighbour == y))
+            {
+                yield return (xNeighbour, yNeighbour);
+            }
+        }
+    }
+    
     public static IEnumerable<(int x, int y, int z)> Neighbours3(int x, int y, int z)
     {
         for (var zNeighbour = z - 1; zNeighbour <= z + 1; zNeighbour++)
