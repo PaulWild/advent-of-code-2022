@@ -12,4 +12,14 @@ public static class ListExtensions
 
         return hash.ToHashCode();
     }
+    
+    public static IEnumerable<(T item, int index)> WithIndex<T>(this IEnumerable<T> sequence)
+    {
+        var index = 0;
+        foreach (var item in sequence)
+        {
+            yield return (item, index);
+            index++;
+        }
+    }
 }

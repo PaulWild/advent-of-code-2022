@@ -7,10 +7,10 @@
     &lt;/TestAncestor&gt;
   &lt;/Not&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35b60d34_002D0584_002D46d6_002D9254_002Deb965f949c40/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PartOne_WhenCalled_ReturnsCorrectTestAnswer #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35b60d34_002D0584_002D46d6_002D9254_002Deb965f949c40/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PartOne_WhenCalled_ReturnsCorrectTestAnswer #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Project Location="/Users/WildPa1/source/Scratch/advent-of-code-2022/AdventOfCode.Tests" Presentation="&amp;lt;AdventOfCode.Tests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40656208_002Df4f6_002D416f_002Db721_002D49a69d9c6c5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PartTwo_WhenCalled_WorksWithExampleThree" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40656208_002Df4f6_002D416f_002Db721_002D49a69d9c6c5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PartTwo_WhenCalled_WorksWithExampleThree" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Project Location="/Users/WildPa1/source/Scratch/advent-of-code-2022/AdventOfCode.Tests" Presentation="&amp;lt;AdventOfCode.Tests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3c64adb_002Df23f_002D4d68_002Db5c6_002Da9d7cb505d9b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PartOne_WhenCalled_ReturnsCorrectTestAnswer" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
